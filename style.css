@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* box-model*/
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    background-image: url("https://img.freepik.com/free-photo/vintage-wallpaper-background_53876-25250.jpg"), url("https://img.freepik.com/free-photo/vintage-wallpaper-background_53876-25250.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #faf2da;
+  }
+  
+  .card-img-top {
+    padding: 15px;
+    height: 300px;
+    width: auto;
+  }
+  img {
+    width: 600px;
+    height: 450px;
+    background: url(loading.gif) 50% no-repeat;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  .place__holder__image {
+    width: 100%;
+  }

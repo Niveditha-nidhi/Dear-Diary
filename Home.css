@@ -1,0 +1,73 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/0732efedfc197e49a6c548a934f6a27c438dedce57c73d82f6253a80e4018e599ff7e881c05656009d79479150142ec5cb6f6de0b1063080db9106_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Ribeye;
+  text-shadow: -2px 0px 8px rgba(128,128,128,1);
+  margin: 281px 292px 0 362px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  font-family: "Bad Script";
+  font-weight: 700;
+  margin: 40px -145px 60px 459px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 262px;
+    margin-right: 192px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 359px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 152px;
+    margin-right: 82px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 54px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+}
